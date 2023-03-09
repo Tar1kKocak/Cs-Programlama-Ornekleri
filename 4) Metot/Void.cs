@@ -13,7 +13,7 @@ namespace ConsoleApp1
        static void bilgiyazdir()
         {
             Console.WriteLine("Tarik Kocak 19");
-            Console.WriteLine("Efsa Asarkaya 16");
+            Console.WriteLine("Cem Yılmaz 49");
             Console.WriteLine("Elif Kocak 12");
             Console.WriteLine("Batuhan Nayci 19");
         }
